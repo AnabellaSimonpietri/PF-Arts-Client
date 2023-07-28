@@ -2,6 +2,9 @@
 
 # **ARTS** | Proyecto Final
 
+![image](https://github.com/AnabellaSimonpietri/PF-Arts-Client/assets/120821574/70944dbe-e4a7-433b-a900-366acf4932e6)
+![image](https://github.com/AnabellaSimonpietri/PF-Arts-Client/assets/120821574/85498850-ad37-4f10-96bd-0515ce53e3b6)
+
 ## **📌 OBJETIVOS**
 
 -  Construir una Single Page Application utlizando las tecnologías: **React**, **Redux**, **Node**, **Express** y **Sequelize**.
